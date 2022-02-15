@@ -1,4 +1,11 @@
-class LowerRightAngle1 { 
+class LowerRightAngle1 {
+
+       /** Nwanmadu Chukwuebuka, E.
+       PhD Student at University of Nigeria, Nsukka.
+	   Computer Sc Teacher at Lady Ibiam Girls' Secondary School, Enugu.
+       Tail Recursion 
+       15th February, 2022**/
+
     public static void main(String[] args) {
         outer(1);
     }
