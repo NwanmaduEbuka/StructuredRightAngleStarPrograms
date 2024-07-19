@@ -1,10 +1,10 @@
 public class LowerRightAngle {
        
       /** Nwanmadu Chukwuebuka, E.
-       PhD Student at University of Nigeria, Nsukka.
-	   Computer Sc Teacher at Lady Ibiam Girls' Secondary School, Enugu.
-       Tail Recursion 
+       Lecturer, Department of Computer Sc, SUMAS and  Teacher at Lady Ibiam Girls' Secondary School, Enugu.
+       	Head Recursion 
        15th February, 2022**/
+	Modified 18th July, 2024
 
     /**
      * @param args the command line arguments
